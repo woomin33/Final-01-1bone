@@ -1,0 +1,2 @@
+// interface export
+export type {};

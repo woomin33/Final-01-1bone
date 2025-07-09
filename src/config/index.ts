@@ -1,0 +1,2 @@
+// export config function
+export {};
