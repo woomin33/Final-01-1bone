@@ -1,0 +1,140 @@
+{
+  "gitmoji.addCustomEmoji": [
+    {
+      "emoji": "🎉",
+      "code": ":init:",
+      "description": "프로젝트 초기 설정"
+    },
+    {
+      "emoji": "🐳",
+      "code": ":chore:",
+      "description": "빌드 스크립트 수정, 패키지 매니저 수정"
+    },
+    {
+      "emoji": "🔧",
+      "code": ":conf:",
+      "description": "설정파일 추가/수정"
+    },
+    {
+      "emoji": "🚀",
+      "code": ":deploy:",
+      "description": "배포"
+    },
+    {
+      "emoji": "🔖",
+      "code": ":tag:",
+      "description": "버전태그, 릴리즈"
+    },
+    {
+      "emoji": "💚",
+      "code": ":ci:",
+      "description": "빌드 시스템 추가/수정"
+    },
+    {
+      "emoji": "✨",
+      "code": ":feat:",
+      "description": "새로운 기능 추가"
+    },
+    {
+      "emoji": "🐛",
+      "code": ":fix:",
+      "description": "일반 버그 수정"
+    },
+    {
+      "emoji": "🚨",
+      "code": ":hotfix:",
+      "description": "긴급한 버그 수정"
+    },
+    {
+      "emoji": "🩹",
+      "code": ":coolfix:",
+      "description": "단순한 버그 수정"
+    },
+    {
+      "emoji": "🧪",
+      "code": ":test:",
+      "description": "테스트 추가/수정"
+    },
+    {
+      "emoji": "🚧",
+      "code": ":cont:",
+      "description": "진행 중인 작업"
+    },
+    {
+      "emoji": "🔒️",
+      "code": ":lock:",
+      "description": "보안 이슈 수정"
+    },
+    {
+      "emoji": "🚚",
+      "code": ":rename:",
+      "description": "파일 혹은 폴더명 수정/이동"
+    },
+    {
+      "emoji": "🔥",
+      "code": ":remove:",
+      "description": "파일/코드 삭제"
+    },
+    {
+      "emoji": "🎫",
+      "code": ":assets:",
+      "description": "이미지/아이콘 등 assets 추가"
+    },
+    {
+      "emoji": "⚡️",
+      "code": ":improve:",
+      "description": "성능 개선"
+    },
+    {
+      "emoji": "♻️",
+      "code": ":refactor:",
+      "description": "코드 리팩토링"
+    },
+    {
+      "emoji": "💄",
+      "code": ":style:",
+      "description": "UI 및 Style 파일 추가/수정"
+    },
+    {
+      "emoji": "♿",
+      "code": ":wai:",
+      "description": "접근성 개선"
+    },
+    {
+      "emoji": "✏️",
+      "code": ":typo:",
+      "description": "오타 수정"
+    },
+    {
+      "emoji": "📝",
+      "code": ":docs:",
+      "description": "문서 추가/수정"
+    },
+    {
+      "emoji": "📄",
+      "code": ":license:",
+      "description": "라이센스 추가/수정"
+    },
+    {
+      "emoji": "💬",
+      "code": ":comment:",
+      "description": "주석 추가/수정"
+    },
+    {
+      "emoji": "🔍️",
+      "code": ":seo:",
+      "description": "검색 엔진 최적화 개선"
+    },
+    {
+      "emoji": "🔀",
+      "code": ":merge:",
+      "description": "브랜치 병합"
+    },
+    {
+      "emoji": "⏪",
+      "code": ":revert:",
+      "description": "변경 내용 되돌리기"
+    }
+  ],
+  "gitmoji.onlyUseCustomEmoji": true
+}
